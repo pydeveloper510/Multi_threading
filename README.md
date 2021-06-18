@@ -44,4 +44,4 @@ python multiThreading.py
 ``` 
 (Python 3.9.0)
 
-__ @ 2021 04 25 __
+__ @ 2021 06 19 __
